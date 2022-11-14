@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NugetForGrid/1.0.4": {
+        "runtime": {
+          "lib/net6.0-windows7.0/NugetForGrid.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NugetForGrid/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-07kbhJDGWjaQ29xvcrWyjTumsgNUm4wGmxDJGlTcscLmzGp4Sn/wSCkgVN5dmg/1duw1eDN9UMHPvWU/ONlGjw==",
+      "path": "nugetforgrid/1.0.4",
+      "hashPath": "nugetforgrid.1.0.4.nupkg.sha512"
+    }
+  }
+}

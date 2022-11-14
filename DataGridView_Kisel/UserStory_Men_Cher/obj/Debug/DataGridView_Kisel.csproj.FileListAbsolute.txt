@@ -1,0 +1,12 @@
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe.config
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.exe
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\bin\Debug\UserStory_Men_Cher.pdb
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\DataGridView_Kisel.csproj.AssemblyReference.cache
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\DataGridView_Kisel.csproj.SuggestedBindingRedirects.cache
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Form1.resources
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.FormStudentInfo.resources
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.Properties.Resources.resources
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\DataGridView_Kisel.csproj.GenerateResource.cache
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\DataGridView_Kisel.csproj.CoreCompileInputs.cache
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.exe
+D:\Саша\Рабочий стол\DataGridView_Kisel\UserStory_Men_Cher\obj\Debug\UserStory_Men_Cher.pdb

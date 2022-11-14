@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "NugetForGrid/1.0.4": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/NugetForGrid.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/NugetForGrid.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "NugetForGrid/1.0.4": {
+      "sha512": "07kbhJDGWjaQ29xvcrWyjTumsgNUm4wGmxDJGlTcscLmzGp4Sn/wSCkgVN5dmg/1duw1eDN9UMHPvWU/ONlGjw==",
+      "type": "package",
+      "path": "nugetforgrid/1.0.4",
+      "files": [
+        ".nupkg.metadata",
+        "License.txt",
+        "lib/net6.0-windows7.0/NugetForGrid.dll",
+        "nugetforgrid.1.0.4.nupkg.sha512",
+        "nugetforgrid.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "NugetForGrid >= 1.0.4"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Александр\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Саша\\Рабочий стол\\DataGridView_Kisel\\DataGrid_Kisel\\DataGrid_Kisel.csproj",
+      "projectName": "DataGrid_Kisel",
+      "projectPath": "D:\\Саша\\Рабочий стол\\DataGridView_Kisel\\DataGrid_Kisel\\DataGrid_Kisel.csproj",
+      "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
+      "outputPath": "D:\\Саша\\Рабочий стол\\DataGridView_Kisel\\DataGrid_Kisel\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Саша\\Рабочий стол\\Nuget": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "NugetForGrid": {
+            "target": "Package",
+            "version": "[1.0.4, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
